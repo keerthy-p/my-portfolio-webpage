@@ -55,7 +55,7 @@ function MyWorks() {
           <Image src="/images/project-2.png" width={800} height={500} />
         </div>
       </section>
-      <section
+{/*       <section
         className="grid md:grid-cols-2 my-12 md:my-12 py-12 gap-4 relative"
       >
 
@@ -79,7 +79,7 @@ function MyWorks() {
         <div>
           <Image src="/images/project-3.png" width={800} height={500} />
         </div>
-      </section>
+      </section> */}
       <section
         className="grid md:grid-cols-2 my-12 md:my-12 py-12 gap-4 relative"
       >
