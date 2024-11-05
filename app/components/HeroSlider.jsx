@@ -4,10 +4,12 @@ import Image from "next/image";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import Link from "next/link";
+import '../../public/css/style.css';
 
 const HeroSlider = () => {
     return (
-        <section className="lg:py-16">
+        <section className="lg:py-16
+        ">
             <div className="grid grid-cols-1 sm:grid-cols-12">
                 <motion.div
                     initial={{ opacity: 0, scale: 0.5 }}
@@ -25,8 +27,6 @@ const HeroSlider = () => {
                                 "Keerthy",
                                 1000,
                                 "Web Developer",
-                                1000,
-                                "Frontend Developer",
                                 1000,
                                 "UI/UX Designer",
                                 1000,
@@ -64,13 +64,15 @@ const HeroSlider = () => {
                 >
                     <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
                         <Image
-                            src="/images/hero-image.png"
-                            alt="hero image"
+                            src="/images/girl-dev.png"
+                            alt="girl dev"
                             className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                             width={300}
                             height={300}
                         />
+                        <iframe className="spli-a-style" src='https://my.spline.design/particles-a6eb5e2fad813e263da5cb0d8938f4d2/' frameborder='0' width='100%' height='100%'></iframe>
                     </div>
+
                 </motion.div>
             </div>
         </section>

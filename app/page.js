@@ -3,6 +3,7 @@ import AchievementsSection from "./components/Achievements";
 import Email from "./components/Email";
 import Footer from "./components/Footer";
 import HeroSlider from "./components/HeroSlider";
+import MyWorks from "./components/MyWorks";
 import Navbar from "./components/NavBar";
 import ProjectsSection from "./components/ProjectSection";
 import '/app/globals.css';
@@ -15,7 +16,8 @@ export default function Home() {
         <HeroSlider />
         <AchievementsSection />
         <About />
-        <ProjectsSection />
+        <MyWorks/>
+        {/* <ProjectsSection /> */}
         <Email />
       </div>
       <Footer />
