@@ -55,31 +55,6 @@ function MyWorks() {
           <Image src="/images/project-2.png" width={800} height={500} />
         </div>
       </section>
-{/*       <section
-        className="grid md:grid-cols-2 my-12 md:my-12 py-12 gap-4 relative"
-      >
-
-        <div className="z-10">
-          <h5 className="text-4xl font-bold text-white my-3 pr-4">
-            Landing Page Design for a <br />Digital Marketing Agency
-          </h5>
-          <p className="text-[#ADB7BE] mb-4 max-w-md">
-            This landing page design effectively captures the essence of
-            a digital marketing agency, crafted in Figma with engaging
-            visuals. providing a seamless user experience and driving
-            conversions.
-          </p>
-          <div className="socials flex flex-row gap-2">
-            <Link href="https://www.behance.net/keerthypalani18" target="_blank" rel="noopener noreferrer">
-              <button className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
-              >View Design</button>
-            </Link>
-          </div>
-        </div>
-        <div>
-          <Image src="/images/project-3.png" width={800} height={500} />
-        </div>
-      </section> */}
       <section
         className="grid md:grid-cols-2 my-12 md:my-12 py-12 gap-4 relative"
       >
@@ -144,7 +119,7 @@ function MyWorks() {
             showcases visuals that resonate with clients seeking elegant and functional spaces.
           </p>
           <div className="socials flex flex-row gap-2">
-            <Link href="https://github.com/keerthy-p" target="_blank" rel="noopener noreferrer">
+            <Link href="#" target="_blank" rel="noopener noreferrer">
               <button className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
               >View Project</button>
             </Link>
