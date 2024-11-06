@@ -56,10 +56,10 @@ const Email = () => {
                     try my best to get back to you!
                 </p>
                 <div className="socials flex flex-row gap-2">
-                    <Link href="github.com">
+                    <Link href="https://github.com/keerthy-p">
                         <Image src={GithubIcon} alt="Github Icon" />
                     </Link>
-                    <Link href="linkedin.com">
+                    <Link href="https://www.linkedin.com/in/keerthy-p-ab439128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
                         <Image src={LinkedinIcon} alt="Linkedin Icon" />
                     </Link>
                 </div>
