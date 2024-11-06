@@ -41,7 +41,7 @@ const HeroSlider = () => {
                     </p>
                     <div>
                         <Link
-                            href="https://www.linkedin.com/in/keerthy-p-ab439128b" target="_blank"
+                            href="https://www.linkedin.com/in/keerthy-p-ab439128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"
                             className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
                         >
                             Hire Me
