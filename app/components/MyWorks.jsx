@@ -95,7 +95,7 @@ function MyWorks() {
             conversions.
           </p>
           <div className="socials flex flex-row gap-2">
-            <Link href="https://www.behance.net/keerthypalani18" target="_blank" rel="noopener noreferrer">
+            <Link href="https://www.behance.net/gallery/209674917/Home-Page-Design-for-Digital-Marketing-Agency" target="_blank" rel="noopener noreferrer">
               <button className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
               >View Design</button>
             </Link>
@@ -119,7 +119,7 @@ function MyWorks() {
             Spanning 34 meticulously designed screens.
           </p>
           <div className="socials flex flex-row gap-2">
-            <Link href="https://www.behance.net/keerthypalani18" target="_blank" rel="noopener noreferrer">
+            <Link href="https://www.behance.net/gallery/190709223/UI-Screen-Mockups" target="_blank" rel="noopener noreferrer">
               <button className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
               >View Design</button>
             </Link>
